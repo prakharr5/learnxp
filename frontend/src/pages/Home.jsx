@@ -1,12 +1,12 @@
 import React from "react";
 import Hero from "../components/Hero";
 
-function Index() {
+function Home() {
   return (
-    <>
+    <div>
       <Hero />
-    </>
+    </div>
   );
 }
 
-export default Index;
+export default Home;
